@@ -1,2 +1,2 @@
 # hypixel-rank-signature-gen
-Get your hypixel rank + username for your forum signature
+Get hypixel rank + username for your forum signature
