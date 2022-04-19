@@ -5,4 +5,7 @@ fetch(url)
 .then(({ player }) => {
 // Log the player's username
 console.log(player.displayname)
+//Make a variable of player's username
+var user=player.displayname
+document.getElementById("output").innerHTML = user
 })
